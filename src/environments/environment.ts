@@ -3,11 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false,
+  production: true,
   // apiEndPoint:'',
-  apiEndPoint: 'https://cc488296627c.ngrok.io/'
   // apiEndPoint: 'https://moneylifev1.azurewebsites.net/'
-  // apiEndPoint: 'http://localhost:8000/'
+  apiEndPoint: 'http://localhost:8000/'
 };
 
 /*
